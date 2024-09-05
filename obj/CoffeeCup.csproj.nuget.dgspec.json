@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Views\\CoffeeSrc\\CoffeeCup\\CoffeeCup.csproj": {}
+  },
+  "projects": {
+    "C:\\Views\\CoffeeSrc\\CoffeeCup\\CoffeeCup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Views\\CoffeeSrc\\CoffeeCup\\CoffeeCup.csproj",
+        "projectName": "CoffeeCup",
+        "projectPath": "C:\\Views\\CoffeeSrc\\CoffeeCup\\CoffeeCup.csproj",
+        "packagesPath": "C:\\Users\\tylershaw\\.nuget\\packages\\",
+        "outputPath": "C:\\Views\\CoffeeSrc\\CoffeeCup\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tylershaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Views\\Locals": {},
+          "C:\\Views\\SharedBinaries": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\Shared Comp Deployment": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\SharedCompFeeds\\AutomaticPricing_2.0": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\SharedCompFeeds\\AutomaticPricing_TogalIntegration": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\SharedCompFeeds\\Development": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\SharedCompFeeds\\DisconnectedWorkflow": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\SharedCompFeeds\\TogalIntegrationMaintenance": {},
+          "\\\\btazurefs01.beck-technology.com\\destini$\\03 R&D\\Development\\SharedCompFeeds\\WebimatorIntegration": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://becktech.pkgs.visualstudio.com/7a23932a-63a6-4ad9-9313-800a9913891c/_packaging/DESTINI-Web/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
